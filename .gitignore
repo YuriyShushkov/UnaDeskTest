@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/UnaDeskTest.Contracts/obj
+/.vs
+/UnaDeskTest.Contracts/bin/Debug/net8.0
+/UnaDeskTest.Dto/bin/Debug/net8.0
+/UnaDeskTest.Dto/obj
+/UnaDeskTest.Tests/bin/Debug/net8.0
+/UnaDeskTest.Tests/obj
+/UnaDeskTestBLL/.vs/UnaDeskTestBLL
+/UnaDeskTestBLL/bin/Debug/net8.0
+/UnaDeskTestBLL/obj
